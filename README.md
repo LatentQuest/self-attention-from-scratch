@@ -1,6 +1,6 @@
 # Self-Attention from Scratch, with Real Numbers
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seyedvahidmirnezami/self-attention-from-scratch/blob/main/self_attention_from_scratch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LatentQuest/self-attention-from-scratch/blob/main/self_attention_from_scratch.ipynb)
 [![Course on Udemy](https://img.shields.io/badge/Full%20course-Udemy-A435F0?logo=udemy&logoColor=white)](https://www.udemy.com/course/master-transformers-from-scratch-bert-vit-ai-search/)
 
 Self-attention explained with numbers small enough to check on paper, then implemented in NumPy and PyTorch.
@@ -67,9 +67,9 @@ The course continues from here to positional encoding, the encoder block, BERT p
 fine-tuning for classification and NER, Vision Transformers, and two-tower semantic search.
 
 More from the course:
-- [transformer-encoder-pytorch](https://github.com/seyedvahidmirnezami/transformer-encoder-pytorch): the full encoder block, and why positional encoding matters
-- [vision-transformer-cassava](https://github.com/seyedvahidmirnezami/vision-transformer-cassava): fine-tune a Vision Transformer on Kaggle
-- [semantic-search-two-tower](https://github.com/seyedvahidmirnezami/semantic-search-two-tower): build two-tower retrieval from scratch
+- [transformer-encoder-pytorch](https://github.com/LatentQuest/transformer-encoder-pytorch): the full encoder block, and why positional encoding matters
+- [vision-transformer-cassava](https://github.com/LatentQuest/vision-transformer-cassava): fine-tune a Vision Transformer on Kaggle
+- [semantic-search-two-tower](https://github.com/LatentQuest/semantic-search-two-tower): build two-tower retrieval from scratch
 
 If this helped you understand attention, a ⭐ helps other learners find it.
 
